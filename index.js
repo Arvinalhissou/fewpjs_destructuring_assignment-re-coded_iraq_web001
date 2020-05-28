@@ -40,6 +40,7 @@ const [ black_and_white, ,black, pink ] = farmAnimals.split(" ")
 // Arrays
 
 // 4. Use destructuring to assign appropriate variables using the color names.
+
 const [red, orange, yellow, green, blue, indigo, violet] = colors;
 
 
